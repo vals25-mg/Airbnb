@@ -65,6 +65,10 @@ VALUES ('T1',3,200.0,,,,,,);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
 VALUES ('T1',3,230.0,,,,,,);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
+VALUES ('T1',3,230.0,,,,,,);
+INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
+VALUES ('T1',3,230.0,,,,,,);
+INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
 VALUES ('T2',3,75.0,,,,,,);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
 VALUES ('T2',3,170.0,,,,,,);
@@ -73,10 +77,12 @@ VALUES ('T2',3,135.0,,,,,,);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
 VALUES ('T2',3,150.0,,,,,,);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
-VALUES ('T2',3,110.0,,'Black river, Maurice',,
-,'Un bel appartement moderne, B3  au deuxième étage, est une chambre entièrement indépendante en suite.  Elle dispose de sa propre cuisine et d'un espace de divertissement avec une piscine privée. Télévision et wifi disponibles, climatisation.  Le service de nettoyage est disponible tous les jours sauf le dimanche et les jours fériés. Les vues sont incroyables depuis notre appartement surplombant la Rivière Noire et Tamarin avec les couchers de soleil les plus exquis. Piscine commune dans les beaux jardins et à 20m de la plage.'
-,);
+VALUES ('T2',2,110.0,'','Black river Maurice'
+,'Un bel appartement moderne, B3  au deuxième étage, est une chambre entièrement indépendante en suite. Elle dispose de sa propre cuisine et d un espace de divertissement avec une piscine privée. Télévision et wifi disponibles, climatisation.  Le service de nettoyage est disponible tous les jours sauf le dimanche et les jours fériés. Les vues sont incroyables depuis notre appartement surplombant la Rivière Noire et Tamarin avec les couchers de soleil les plus exquis. Piscine commune dans les beaux jardins et à 20m de la plage.'
+,1);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
 VALUES ('T3',3,95.0,,,,,,);
+INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
+VALUES ('T3',3,80.0,,,,,,);
 INSERT INTO habitation (type,nombreDeChambre,loyerparjour,image,quartier,description,nblits) 
 VALUES ('T3',3,80.0,,,,,,);
